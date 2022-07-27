@@ -4,7 +4,7 @@ HTML5, CSS3, JQuery, PHP y Bootstrap 3
 
 ## Resources
 
-### Code
+### Código
 
 - [Freehtml5](http://freehtml5.co/)
 
