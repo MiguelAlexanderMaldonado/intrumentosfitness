@@ -20,7 +20,10 @@ HTML5, CSS3, JQuery, PHP y Bootstrap 3
 
 - [SiteGround](https://my.siteground.com/)
 
-### Local server
+### Servidor local
 
 - [Docker](https://www.docker.com/)
 
+### Scrips
+
+- Se deben ejecutar los scrips fuera de la raíz del proyecto.
