@@ -1,8 +1,8 @@
-# [Responsive] Instrumentos del fitness
+# Instrumentos del fitness
 
 HTML5, CSS3, JQuery, PHP y Bootstrap 3
 
-## Resources
+## Recursos
 
 ### Código
 
