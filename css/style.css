@@ -882,3 +882,6 @@ label {
   text-align: center;
   font-weight: 100 !important;
 }
+.titulo-pagina {
+  padding-top: 10px;
+}
