@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  font-family: "Roboto", arial, sans-serif !important;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: 100 !important;
   line-height: 1.8;
@@ -433,7 +433,7 @@ p {
 }
 .entrada article .fh5co-meta {
   font-size: 16px;
-  font-family: "Roboto", arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;;
   color: #999999;
   margin-bottom: 20px;
   display: block;
@@ -488,7 +488,7 @@ p {
   letter-spacing: 2px;
   color: #b3b3b3;
   text-transform: uppercase;
-  font-family: "Roboto", arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;;
 }
 .entrada article .fh5co-highlight p {
   font-family: "Playfair Display", times, serif;
@@ -824,6 +824,9 @@ figure figcaption {
   }
   .seccion-menu-lateral {
     margin-top: -30px !important;
+  }
+  .titulo-menu-lateral {
+    font-size: 20px;
   }
 }
 
